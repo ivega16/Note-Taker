@@ -2,7 +2,7 @@
 
 ## Description
 
-My motivation was to create a note taker application so that individuals could keep track of their tasks and responsibiliites. I built this project so it could help those in need of a note taker. This problem solves disorganization and improves time management. I learned how to use logic to meet the criteria associated with creating and deleting entries.
+My motivation was to create a note taker application so that individuals could keep track of their tasks and responsibilites. I built this project so it could help those in need of a note taker. This problem solves disorganization and improves time management. I learned how to use logic to meet the criteria associated with creating and deleting entries.
 
 ## Table of Contents (Optional)
 
